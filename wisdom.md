@@ -209,7 +209,7 @@ Brief introductory remarks regarding the Project:
 - If you have trouble keeping up with washing dishes, cutlery, or cooking stuff, you may have too much of them.
 - Be mindful about giving gifts. A gift you give with *any* expectation is a burden, and people rarely enjoy being given a burden.
 - In thinking about optimizing how you work, try to distinguish between the parts of your job that are *necessarily difficult* versus the parts that are harder than they actually need to be. The former is the reason that you get the big bucks, and the latter is the reason why you may often feel like the bucks should be bigger.
-- Be gracious when someone points out a dumb error that you made. Especially when it comes from someone whom you respect. They're doing it because *they like you*, and because they pay attention to stuff that you do.
+- Be gracious when someone points out a dumb error that you made. Especially when it comes from someone whom you respect. They're doing it because *they like you*, and because they pay attention to stuff that you do. (Thanks, Matt H.)
 - Related: to bad faith actors, you may wish to say something like, "You might just be right" or, "Yeah, life sure is pretty complicated." Answers to bad faith can and should be extremely personal.
 - Use shoe trees. It'll make you feel like a fancy duchess, plus it'll make your shoes last a lot longer.
 - Bring along an extra pen that you like.
